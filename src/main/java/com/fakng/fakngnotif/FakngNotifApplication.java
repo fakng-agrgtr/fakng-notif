@@ -1,0 +1,13 @@
+package com.fakng.fakngnotif;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class FakngNotifApplication {
+
+    public static void main(String[] args) {
+        SpringApplication.run(FakngNotifApplication.class, args);
+    }
+
+}
